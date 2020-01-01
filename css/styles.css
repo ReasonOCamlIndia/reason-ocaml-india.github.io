@@ -50,6 +50,13 @@ a.rb-btn:hover {
   justify-content: center;
 }
 
+@media (max-width: 420px) {
+    .rb-full-page {
+	display: block;
+    }
+}
+
+
 .rb-description {
     font-weight: 300;
     color: #333;
