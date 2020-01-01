@@ -56,6 +56,9 @@ a.rb-btn:hover {
     }
 }
 
+iframe {
+    width: 100%;
+}
 
 .rb-description {
     font-weight: 300;
