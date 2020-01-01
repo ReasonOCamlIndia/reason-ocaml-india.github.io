@@ -50,7 +50,7 @@ a.rb-btn:hover {
   justify-content: center;
 }
 
-@media (max-width: 420px) {
+@media (max-width: 500px) {
     .rb-full-page {
 	display: block;
     }
