@@ -131,37 +131,34 @@ h3 {
 }
 
 @-webkit-keyframes change {
-  0%,
-  100% {
+  0%, 37.5%, 100% {
     transform: translate3d(0, 0, 0);
   }
-  50% {
+  50%, 87.5% {
     transform: translate3d(0, -50%, 0);
   }
 }
 @-o-keyframes change {
-  0%,
-  100% {
+  0%, 37.5%, 100% {
     transform: translate3d(0, 0, 0);
   }
-  50% {
+  50%, 87.5% {
     transform: translate3d(0, -50%, 0);
   }
 }
 @-moz-keyframes change {
-  0%,
-  100% {
+  0%, 37.5%, 100% {
     transform: translate3d(0, 0, 0);
   }
-  50% {
+  50%, 87.5% {
     transform: translate3d(0, -50%, 0);
   }
 }
 @keyframes change {
-  0%, 62.5% {
+  0%, 37.5%, 100% {
     transform: translate3d(0, 0, 0);
   }
-  12.5%, 50% {
+  50%, 87.5% {
     transform: translate3d(0, -50%, 0);
   }
 }
