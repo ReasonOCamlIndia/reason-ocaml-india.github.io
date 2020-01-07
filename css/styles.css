@@ -5,22 +5,22 @@ body {
   font-family: Source Sans Pro, sans-serif;
 }
 header {
-  position: absolute;
-  top: 0;
-  left: 0;
   width: 100%;
 }
 @media (max-width: 500px) {
-  header {
-    position: static;
-  }
+}
+
+.rb-logo {
+    height: 4rem;
+    border-radius: 50%;
+    display: inline-block;
 }
 
 nav ul {
   list-style-type: none;
-  text-align: right;
-  padding: 1rem;
-  margin: 0;
+  padding: 0rem;
+  margin: 0 0 2rem 0;
+  display: inline-block;
 }
 nav li {
   display: inline-block;
@@ -31,12 +31,25 @@ li a img {
   height: 3rem;
 }
 h1 {
+    font-size: 4rem;
   color: #222;
   font-weight: 600;
 }
+h2 {
+    font-size: 3rem;
+}
 p {
-  font-size: 2.5rem;
-  color: #666;
+  font-size: 2.75rem;
+  color: #333;
+  font-weight: 300;
+}
+.rb-coc p {
+    font-size: 2rem;
+}
+
+.rb-coc li {
+    font-size: 2rem;
+    font-weight: 300;
 }
 a.rb-btn,
 a.rb-btn:visited {
@@ -66,9 +79,14 @@ a.rb-btn:hover {
   justify-content: center;
 }
 
+.rb-coc {
+    margin: 2rem auto;
+}
+
 @media (max-width: 500px) {
   .rb-full-page {
-    display: block;
+      display: block;
+      margin-top: 2rem;
   }
 }
 
