@@ -1,0 +1,40 @@
+title: Reason Bangalore
+tagline: Bangalore's very own Reason/OCaml community
+description: Reason/OCaml community in and around Bangalore
+url: https://reason-bangalore.org/
+author: Manas
+twitter:
+  username: ReasonBangalore
+  card: summary
+logo: https://reason-bangalore.org/images/logo.jpeg
+social:
+  name: Reason Bangalore
+  links:
+    - https://twitter.com/ReasonBangalore
+    - https://github.com/reason-bangalore
+repository: reason-bangalore/reason-bangalore.github.io
+
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag 

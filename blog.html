@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<main class="container mx-auto px-4 text-gray-800 text-xl">
+<h1 class="text-gray-500">Latest Posts</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2 class="text-2xl my-4"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
+</main>

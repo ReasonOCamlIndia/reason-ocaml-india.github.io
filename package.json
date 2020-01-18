@@ -1,0 +1,20 @@
+{
+  "name": "reason-bangalore",
+  "version": "0.1.0",
+  "description": "Reason/OCaml community in Bangalore",
+  "repository": "https://github.com/reason-bangalore/reason-bangalore.github.io",
+  "scripts": {
+    "build": "gulp"
+  },
+  "author": "Manas",
+  "license": "ISC",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^1.3.0",
+    "autoprefixer": "^9.7.4",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "tailwindcss": "^1.1.4"
+  }
+}
