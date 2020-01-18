@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<main class="container mx-auto px-4 text-gray-800 text-2xl">
+<h1 class="text-4xl font-bold">{{ page.title }}</h1>
+<div class="text-gray-500 py-2 text-xl">{{ page.date | date_to_string }}
+  &middot
+  {% assign author = site.data.authors[page.author] %}
+  {% if author %}
+    <a class="hover:underline" href="https://twitter.com/{{ author.twitter }}">{{ author.name }}</a>
+    {% endif %}
+</div>
+{{ content }}
+</main>

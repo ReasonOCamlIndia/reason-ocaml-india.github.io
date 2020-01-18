@@ -1,70 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Reason Bangalore</title>
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+---
+layout: default
+title: Home
+---
 
-    <!-- Mobile Specific Metas -->
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-    <!-- Font --->
-    <link
-      href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600"
-      rel="stylesheet"
-      type="text/css"
-    />
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/normalize.css" />
-    <link rel="stylesheet" href="css/skeleton.css" />
-
-    <!-- Favicon -->
-    <link rel="icon" type="image/png" href="images/favicon.png" />
-
-    <link href="/css/styles.css" rel="stylesheet" />
-  </head>
-  <body>
-    <div class="rb-full-page container first-fold">
-      <div class="row">
-        <section class="one-half column">
-          <h1>Reason Bangalore</h1>
-          <p class="rb-description">
-            Bengaluru's very own Reason/OCaml community
-          </p>
-          <!-- <a class="rb-btn" href="https://www.meetup.com/Reason-Bangalore/"
-               >Join us</a
-               > -->
-          <h2 class="rb-light">is meeting up next on</h2>
-          <h3 class="rb-date">February 1, 2020</h3>
-          <h2 class="rb-light">at</h2>
-          <section class="rb-address">
-            <h3>Zolostays, HSR Layout.</h3>
-            <p>
-              1190, 22nd Cross Rd, Sector 3, HSR Layout, Bengaluru, Karnataka
-              560102
-            </p>
-          </section>
-          <a class="rb-btn" href="https://www.meetup.com/Reason-Bangalore/"
-            >Join us</a
-          >
-        </section>
-        <section class="one-half column">
-          <section class="rb-location">
-            <div class="rb-map">
-              <iframe
-                height="450"
-                frameborder="0"
-                style="border:0"
-                src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ1eKyOloVrjsRl6pJZdFtms8&key=AIzaSyBMy9m4Q7XLh1ZcEhBuhaTPOke5KSQrCFU"
-                allowfullscreen
-              ></iframe>
-            </div>
-          </section>
-        </section>
+<main class="rb-homepage sm:flex flex-column container m-auto px-4">
+  <section class="flex-1 pr-2">
+    <h1>Reason Bangalore</h1>
+    <p class="rb-description">
+      Bengaluru's very own Reason/OCaml community
+    </p>
+    <h2 class="rb-light my-4">is meeting up next on</h2>
+    <h3 class="rb-date">February 1, 2020</h3>
+    <h2 class="rb-light my-4">at</h2>
+    <section class="rb-address">
+      <h3>Zolostays, HSR Layout.</h3>
+      <p>
+        1190, 22nd Cross Rd, Sector 3, HSR Layout, Bengaluru, Karnataka 560102
+      </p>
+    </section>
+    <a class="rb-btn rounded mt-8 px-4 py-2 inline-block w-auto text-xl" href="https://www.meetup.com/Reason-Bangalore/"
+      >Join us</a
+    >
+  </section>
+  <section class="flex-1 flex items-center mt-8 sm:mt-0">
+    <section class="rb-location w-full">
+      <div class="rb-map">
+        <iframe
+          height="450"
+          frameborder="0"
+          style="border:0"
+          src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ1eKyOloVrjsRl6pJZdFtms8&key=AIzaSyBMy9m4Q7XLh1ZcEhBuhaTPOke5KSQrCFU"
+          allowfullscreen
+        ></iframe>
       </div>
-    </div>
-    <script src="/js/scripts.js"></script>
-  </body>
-</html>
+    </section>
+  </section>
+</main>
+<script src="/assets/js/scripts.js"></script>
