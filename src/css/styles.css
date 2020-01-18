@@ -301,3 +301,24 @@ html, body {
     transition: all 0.5s ease;
 }
 
+.rb-post p {
+    margin-top: 1rem;
+}
+
+.rb-blog a {
+    text-decoration: underline;
+}
+
+.rb-blog li:after {
+    content: '...more';
+    display: inline;
+    color: #666;
+    font-size: 1rem;
+    font-weight: 300;
+}
+       
+		 
+
+.rb-blog h2 {
+    font-weight: bold;
+}

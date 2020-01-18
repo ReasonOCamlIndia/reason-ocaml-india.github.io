@@ -34,6 +34,10 @@ defaults:
     values:
       layout: "default"
       
+excerpt_separator: <!--more-->
+
+future: true
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap

@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-<main class="container mx-auto px-4 text-gray-800 text-xl">
+<main class="rb-blog container mx-auto px-4 text-gray-800 text-xl">
 <h1 class="text-gray-500">Latest Posts</h1>
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2 class="text-2xl my-4"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2 class="text-2xl mt-4"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <div class="text-gray-500 py-2 text-base font-light">{{ post.date | date_to_string }}</div>
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
