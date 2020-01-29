@@ -11494,15 +11494,20 @@ header {
 }
 
 .rb-menu-btn:checked ~ .rb-hamburger-icon:before {
-  -webkit-transition: width 0.5s ease-out,
-		-webkit-transform 0.5s ease-out;
-  transition: width 0.5s ease-out,
-		-webkit-transform 0.5s ease-out;
-  transition: transform 0.5s ease-out,
-		width 0.5s ease-out;
-  transition: transform 0.5s ease-out,
+  -webkit-transition: background-color 0.5s ease-out,
 		width 0.5s ease-out,
 		-webkit-transform 0.5s ease-out;
+  transition: background-color 0.5s ease-out,
+		width 0.5s ease-out,
+		-webkit-transform 0.5s ease-out;
+  transition: transform 0.5s ease-out,
+		background-color 0.5s ease-out,
+		width 0.5s ease-out;
+  transition: transform 0.5s ease-out,
+		background-color 0.5s ease-out,
+		width 0.5s ease-out,
+		-webkit-transform 0.5s ease-out;
+  background-color: #999;
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
   width: 45px;
@@ -11510,12 +11515,22 @@ header {
 
 .rb-menu-btn:checked ~ .rb-hamburger-icon:after {
   width: 45px;
-  -webkit-transition: -webkit-transform 0.5s ease-out;
-  transition: -webkit-transform 0.5s ease-out;
-  transition: transform 0.5s ease-out;
-  transition: transform 0.5s ease-out, -webkit-transform 0.5s ease-out;
+  -webkit-transition: background-color 0.5s ease-out,
+		width 0.5s ease-out,
+		-webkit-transform 0.5s ease-out;
+  transition: background-color 0.5s ease-out,
+		width 0.5s ease-out,
+		-webkit-transform 0.5s ease-out;
+  transition: transform 0.5s ease-out,
+		background-color 0.5s ease-out,
+		width 0.5s ease-out;
+  transition: transform 0.5s ease-out,
+		background-color 0.5s ease-out,
+		width 0.5s ease-out,
+		-webkit-transform 0.5s ease-out;
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
+  background-color: #999;
 }
 
 .rb-menu {
@@ -11524,6 +11539,11 @@ header {
   transition: max-height 0.5s ease-out;
   overflow: hidden;
   margin-top: 64px;
+  margin-bottom: 1rem;
+}
+
+.rb-menu li {
+  line-height: 2;
 }
 
 @media (min-width: 640px) {
@@ -11546,7 +11566,7 @@ html, body {
 
 .rb-homepage {
   font-size: 16px;
-  margin-top: -2rem;
+  margin-top: -1.5rem;
 }
 
 .rb-logo {
