@@ -112,6 +112,10 @@ header {
     line-height: 2;
 }
 
+.rb-menu a {
+    text-decoration: none;
+}
+
 @media (min-width: 640px) {
     .rb-menu {
 	margin-top: 1rem;
