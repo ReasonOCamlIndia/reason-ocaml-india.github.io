@@ -2,5 +2,7 @@
   link: /
 - name: Blog
   link: /blog.html
+- name: Getting Help
+  link: /getting-help.html
 - name: Code of Conduct
   link: /code-of-conduct.html
