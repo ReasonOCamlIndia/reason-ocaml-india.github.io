@@ -11743,8 +11743,16 @@ html, body {
   margin-top: 1rem;
 }
 
-.rb-blog a {
+a {
   text-decoration: underline;
+}
+
+h3 {
+  font-size: 1.33rem;
+  color: #333;
+}
+
+section {
 }
 
 .rb-blog li:after {
@@ -11757,6 +11765,14 @@ html, body {
 
 .rb-blog h2 {
   font-weight: bold;
+}
+
+.rb-get-help .rb-platform {
+  margin: 2rem 0;
+}
+
+.rb-get-help h3 {
+  margin-top: 1.5rem;
 }
 
 @media (min-width: 640px) {
