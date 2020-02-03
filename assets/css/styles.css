@@ -11448,7 +11448,7 @@ header {
   z-index: -1;
   top: 0;
   left: 0;
-  content: '';
+  content: "";
   margin: 1rem;
 }
 
@@ -11466,25 +11466,20 @@ header {
   margin: 14px 0;
 }
 
-.rb-hamburger-clickable-area .rb-hamburger-icon:before, 
+.rb-hamburger-clickable-area .rb-hamburger-icon:before,
 .rb-hamburger-clickable-area .rb-hamburger-icon:after {
   width: 32px;
-  content: '';
+  content: "";
   display: block;
   height: 2px;
   background-color: black;
   margin: 0;
   -webkit-transform-origin: 0% 0%;
           transform-origin: 0% 0%;
-  -webkit-transition: width 0.5s ease-out,
-		-webkit-transform 0.5s ease-out;
-  transition: width 0.5s ease-out,
-		-webkit-transform 0.5s ease-out;
-  transition: transform 0.5s ease-out,
-		width 0.5s ease-out;
-  transition: transform 0.5s ease-out,
-		width 0.5s ease-out,
-		-webkit-transform 0.5s ease-out;
+  -webkit-transition: width 0.5s ease-out, -webkit-transform 0.5s ease-out;
+  transition: width 0.5s ease-out, -webkit-transform 0.5s ease-out;
+  transition: transform 0.5s ease-out, width 0.5s ease-out;
+  transition: transform 0.5s ease-out, width 0.5s ease-out, -webkit-transform 0.5s ease-out;
 }
 
 .rb-menu-btn:checked ~ .rb-hamburger-icon > .rb-line {
@@ -11495,18 +11490,13 @@ header {
 
 .rb-menu-btn:checked ~ .rb-hamburger-icon:before {
   -webkit-transition: background-color 0.5s ease-out,
-		width 0.5s ease-out,
-		-webkit-transform 0.5s ease-out;
+    width 0.5s ease-out, -webkit-transform 0.5s ease-out;
   transition: background-color 0.5s ease-out,
-		width 0.5s ease-out,
-		-webkit-transform 0.5s ease-out;
-  transition: transform 0.5s ease-out,
-		background-color 0.5s ease-out,
-		width 0.5s ease-out;
-  transition: transform 0.5s ease-out,
-		background-color 0.5s ease-out,
-		width 0.5s ease-out,
-		-webkit-transform 0.5s ease-out;
+    width 0.5s ease-out, -webkit-transform 0.5s ease-out;
+  transition: transform 0.5s ease-out, background-color 0.5s ease-out,
+    width 0.5s ease-out;
+  transition: transform 0.5s ease-out, background-color 0.5s ease-out,
+    width 0.5s ease-out, -webkit-transform 0.5s ease-out;
   background-color: #999;
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
@@ -11516,18 +11506,13 @@ header {
 .rb-menu-btn:checked ~ .rb-hamburger-icon:after {
   width: 45px;
   -webkit-transition: background-color 0.5s ease-out,
-		width 0.5s ease-out,
-		-webkit-transform 0.5s ease-out;
+    width 0.5s ease-out, -webkit-transform 0.5s ease-out;
   transition: background-color 0.5s ease-out,
-		width 0.5s ease-out,
-		-webkit-transform 0.5s ease-out;
-  transition: transform 0.5s ease-out,
-		background-color 0.5s ease-out,
-		width 0.5s ease-out;
-  transition: transform 0.5s ease-out,
-		background-color 0.5s ease-out,
-		width 0.5s ease-out,
-		-webkit-transform 0.5s ease-out;
+    width 0.5s ease-out, -webkit-transform 0.5s ease-out;
+  transition: transform 0.5s ease-out, background-color 0.5s ease-out,
+    width 0.5s ease-out;
+  transition: transform 0.5s ease-out, background-color 0.5s ease-out,
+    width 0.5s ease-out, -webkit-transform 0.5s ease-out;
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
   background-color: #999;
@@ -11564,7 +11549,9 @@ header {
   transition: max-height 0.5s ease-out;
 }
 
-html, body {
+html,
+body {
+  font-size: 16px;
   font-family: Source Sans Pro, sans-serif;
 }
 
@@ -11667,9 +11654,22 @@ html, body {
   line-height: 5rem;
 }
 
+@media (max-width: 640px) {
+  .rb-homepage .rb-animated-content {
+    font-size: 2.5rem;
+    line-height: 4.5rem;
+  }
+}
+
 .rb-homepage div.content__container {
   overflow: hidden;
   height: 5rem;
+}
+
+@media (max-width: 640px) {
+  .rb-homepage div.content__container {
+    height: 4.5rem;
+  }
 }
 
 .rb-homepage .content__container__text {
@@ -11678,6 +11678,12 @@ html, body {
   margin: 0;
   font-size: 3rem;
   color: #dd4b39;
+}
+
+@media (max-width: 640px) {
+  .rb-homepage .content__container__text {
+    font-size: 2.5rem;
+  }
 }
 
 .rb-homepage ul.content__container__list {
@@ -11693,9 +11699,22 @@ html, body {
   animation-iteration-count: infinite;
 }
 
+@media (max-width: 640px) {
+  .rb-homepage ul.content__container__list {
+    padding: 0 0 0 125px;
+  }
+}
+
 .rb-homepage .content__container__list__item {
   line-height: 5rem;
   margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 640px) {
+  .rb-homepage .content__container__list__item {
+    line-height: 4.5rem;
+  }
 }
 
 @-webkit-keyframes change {
@@ -11732,6 +11751,7 @@ html, body {
   display: inline-block;
   border: 1px solid #dd4b39;
   color: #dd4b39;
+  text-decoration: none;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
@@ -11760,7 +11780,7 @@ section {
 }
 
 .rb-blog li:after {
-  content: '...more';
+  content: "...more";
   display: inline;
   color: #666;
   font-size: 1rem;

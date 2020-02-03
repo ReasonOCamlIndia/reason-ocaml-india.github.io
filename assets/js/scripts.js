@@ -6,7 +6,7 @@ let animatedText = `
               </p>
               <ul class="content__container__list">
                 <li class="content__container__list__item">Bangalore</li>
-                <li class="content__container__list__item">ಬೆಂಗಳೂರು</li>
+                <li style="margin-top:4px" class="content__container__list__item">ಬೆಂಗಳೂರು</li>
               </ul>
             </div>
           </div>
