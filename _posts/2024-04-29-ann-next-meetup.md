@@ -1,5 +1,5 @@
 ---
-title: Introduction to Functional Programming with OCaml
+title: Meetup Announcement: Live coding a web server with OCaml
 author: manas
 ---
 
