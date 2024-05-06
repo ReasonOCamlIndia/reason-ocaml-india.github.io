@@ -1,33 +1,41 @@
-# Reason Bangalore
+# Website
 
-We are a community of Reason/OCaml enthusiasts learning and teaching each other to write type-safe code. Come join us as we try to meet up in code loving city of Bengaluru!
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-This repository hosts the [Jekyll](https://jekyllrb.com/) source powering the website at [reason-bangalore.org](https://reason-bangalore.org)
+### Installation
 
-## Contributing
-
-1. Clone the repository
-
-```sh
-git clone https://github.com/reason-bangalore/reason-bangalore.github.io
+```
+$ yarn
 ```
 
-2. Run `npm install` inside the folder
+### Local Development
 
-```sh
-npm install
+```
+$ yarn start
 ```
 
-3. Start the development server with `npm start`
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-```sh
-npm start
+### Build
+
+```
+$ yarn build
 ```
 
-This is will start a jekyll server integrated with [browsersync](https://www.browsersync.io/) that makes testing the site across devices convenient.
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-4. To edit the CSS,
+### Deployment
 
-```sh
-npm run dev
+Using SSH:
+
 ```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
