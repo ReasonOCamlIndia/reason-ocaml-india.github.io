@@ -1,0 +1,7 @@
+{
+  "name": "ri-docusaurus-webpack-plugin",
+  "lib": "./index.js",
+  "dependencies": {
+    "reason-loader": "*"
+  }
+}

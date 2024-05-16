@@ -107,6 +107,8 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  plugins: ["./plugins/docusaurus-webpack-plugin"],
 };
 
 export default config;
