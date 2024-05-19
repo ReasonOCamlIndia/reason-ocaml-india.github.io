@@ -6,6 +6,8 @@
     "@opam/reason": "*"
   },
   "devDependencies": {
+    "@opam/merlin": "*",
+    "@opam/dot-merlin-reader": "*",
     "@opam/ocamlformat": "*",
     "@opam/ocamlformat-rpc": "*",
     "@opam/ocaml-lsp-server": "*"
