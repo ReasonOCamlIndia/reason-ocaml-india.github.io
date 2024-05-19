@@ -1,5 +1,5 @@
 # Dependencies
-/node_modules
+node_modules
 
 # Production
 /build
@@ -21,3 +21,12 @@ yarn-error.log*
 
 # Emacs
 *~
+
+# esy
+_esy
+
+# webpack-reason-loader
+.cache
+
+# Merlin
+.merlin
