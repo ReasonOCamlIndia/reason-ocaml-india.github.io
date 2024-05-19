@@ -1,0 +1,9 @@
+{
+    "ocaml.sandbox": {
+        "kind": "esy",
+        "root": "${workspaceFolder:reason-bangalore.github.io}"
+    },
+    "ocaml.server.args": [
+        "--fallback-read-dot-merlin"  
+    ]
+}
