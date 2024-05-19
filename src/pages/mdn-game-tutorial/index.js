@@ -2,7 +2,7 @@ import { useRef, useEffect } from "react";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import { render } from "./hello.re";
+import { render } from "./Animation.re";
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();

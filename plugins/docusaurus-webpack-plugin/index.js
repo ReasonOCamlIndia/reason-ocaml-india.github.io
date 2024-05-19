@@ -1,4 +1,5 @@
 import * as path from "path";
+const loaderPath = require.resolve("reason-loader");
 export default function (context, options) {
   return {
     name: "docusaurus-plugin",
@@ -10,10 +11,8 @@ export default function (context, options) {
               test: /\.rei?$/,
               use: [
                 {
-                  loader: path.resolve(
-                    "/Users/manas/development/dining-philosophers/webpack-reason-loader",
-                  ),
-                  options: { separateEsyJson: true },
+                  loader: loaderPath,
+                  options: {},
                 },
               ],
             },
