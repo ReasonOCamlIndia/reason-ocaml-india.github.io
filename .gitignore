@@ -27,3 +27,6 @@ _esy
 
 # webpack-reason-loader
 .cache
+
+# Merlin
+.merlin
