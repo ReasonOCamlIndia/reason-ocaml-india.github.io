@@ -1,14 +1,20 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/).
 
-### Installation
+## Adding a blog post
+1. New posts are created in [./blog/](./blog) folder. For reference see [this post](/blog/2024-05-12-meetup-3-and-ann-next-meetup.md)
+2. Feel free to add yourself [here](/blog/authors.yml) as an author
+3. Add yourself as an author (or co-author if you're collaborating) in the post's headers.
+
+
+## Installation
 
 ```
 $ yarn
 ```
 
-### Local Development
+## Local Development
 
 ```
 $ yarn start
@@ -16,7 +22,7 @@ $ yarn start
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-### Build
+## Build
 
 ```
 $ yarn build
@@ -24,18 +30,6 @@ $ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Deployment
+## Deployment
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+We use Github Actions to deploy the website. See [./.github/workflows](./.github/workflows). For the domain, contact [ManasJayanth](https://github.com/ManasJayanth).
