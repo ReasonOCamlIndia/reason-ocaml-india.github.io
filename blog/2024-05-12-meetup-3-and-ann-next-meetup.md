@@ -5,9 +5,24 @@ authors: [prometheansacrifice]
 ---
 
 [Shakthi Kannan](https://twitter.com/shaktimaan) introduced us to how
-[ocaml.org](https://ocaml.org) website is built. He showed us the
-tools needed to get started, and the commands to build and run the
-website.
+[ocaml.org](https://ocaml.org) website is built.
+
+You need to first install Opam (OCaml Package Manager) on your system,
+and a [demo video](https://www.youtube.com/watch?v=GJf8SeSRZjI) is
+available.
+
+The OCaml.org website sources are at
+[OCaml.org](https://github.com/ocaml/ocaml.org). After cloning the
+repository, you need to run:
+
+```
+$ make switch
+$ make start
+```
+
+A [dashboard](https://github.com/orgs/ocaml-web/projects/1/views/1) of
+good-first-issues to contribute to the OCaml.org web project are
+available.
 
 We had a casual round of discussion about embedded systems as some of
 the attendees write embedded software for a living. Of course,
