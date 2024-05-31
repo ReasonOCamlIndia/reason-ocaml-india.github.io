@@ -4,8 +4,7 @@ title: "Meetup 3: How ocaml.org is built with Dream"
 authors: [prometheansacrifice]
 ---
 
-[Shakthi Kannan](https://twitter.com/shaktimaan) introduced us to how
-[ocaml.org](https://ocaml.org) website is built.
+[Shakthi Kannan](https://twitter.com/shakthimaan) introduced us to how the [ocaml.org](https://ocaml.org) website is built.
 
 You need to first install Opam (OCaml Package Manager) on your system,
 and a [demo video](https://www.youtube.com/watch?v=GJf8SeSRZjI) is
