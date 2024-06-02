@@ -1,0 +1,23 @@
+{
+  "name": "docusaurus-events",
+  "version": "0.1.0",
+  "description": "Renders an events page from markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ReasonOCamlIndia/reason-bangalore.github.io.git"
+  },
+  "keywords": [
+    "docusaurus",
+    "plugin"
+  ],
+  "author": "ManasJayanth <prometheansacrifice>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReasonOCamlIndia/reason-bangalore.github.io/issues"
+  },
+  "homepage": "https://github.com/ReasonOCamlIndia/reason-bangalore.github.io#readme"
+}

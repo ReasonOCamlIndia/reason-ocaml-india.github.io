@@ -108,7 +108,7 @@ const config = {
       },
     }),
 
-  plugins: ["./plugins/docusaurus-webpack-plugin"],
+  plugins: ["./plugins/docusaurus-webpack-plugin", ["./plugins/docusaurus-events", {src: "./events/index.md"}]],
 };
 
 export default config;
