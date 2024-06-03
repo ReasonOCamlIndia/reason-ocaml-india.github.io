@@ -62,6 +62,7 @@ const config = {
           src: "img/logo.jpeg",
         },
         items: [
+          { to: "/upcoming-meetups", label: "Upcoming meetups", position: "left" },
           { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/ReasonIndia",
