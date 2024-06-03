@@ -28,7 +28,7 @@ export default function Home() {
               <p></p>
             </section>
             <a className="rb-btn" href="https://discord.com/invite/RamP7SCKcU">
-              Join us
+              Join us on Discord
             </a>
           </section>
         </section>
