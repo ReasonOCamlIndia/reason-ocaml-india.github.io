@@ -4,22 +4,6 @@ title: Upcoming Meetups
 
 # Upcoming Meetups
 
-## Live-coding: Monopoly Deal written in OCaml
-
-We'll be discussing Nikhil Bijapur's Monopoly Deal, a card game. We
-plan to learn how this game was built with OCaml and live-code with
-him.
-
-### When?
-Sunday, June 9, 2024
-2:00 PM to 4:00 PM IST
-
-### Where?
-Online. Join us Discord to get the link.
-
-### Speaker: Nikhil Bijapur
-(more on him soon)
-
 ## Learning Reason and OCaml: CSS styling the server rendered React components
 
 We continue our full stack Reason React components. We'll be adding
