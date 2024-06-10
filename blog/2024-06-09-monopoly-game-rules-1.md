@@ -22,7 +22,7 @@ OCaml's type system with @theteachr.
 
 ---
 
-Once again, the discussion after, lasted an hour. Srijan Paul shared how
+Once again, the discussion after lasted an hour. Srijan Paul shared how
 dithering in images can improve GIF color depths.
 
 
