@@ -1,15 +1,29 @@
 ---
-slug: melange-mdn-canvas-tutorial
-title: "Meetup 6: MDN Canvas tutorial in Reason with Melange"
-authors: [prometheansacrifice]
+slug: theteachr/fortune
+title: "Meetup 7: Building a Monopoly Deal Clone"
+authors: [theteachr]
 ---
 
 
-We discussed Nikhil Bijapur's Monopoly Deal, a card game. Nikhil
-encoded the game's rules in OCaml's types, avoiding invalid states.
+We discussed encoding the rules of the popular card game Monopoly Deal in
+OCaml's type system with @theteachr.
 
-Once again, the after hours discussion lasted an hour afterwards. Srijan Paul
-shared how dithering in images and improving Gif color depths.
+**Highlights**
+
+- Briefly discussed the gameplay.
+- Incrementally built modules around relevant data structures.
+- Explored whether constructors could clash.
+  - Initially, the general understanding was that it wouldn't work. Either the
+	compilation would fail, or one of them would not be usable. But found out
+	that it will just need some extra [type] hinting on some occasions to get
+	the correct type.
+- Focussed on the principal of _making invalid states impossible to represent_.
+- Created an incomplete game state just to start getting some feedback.
+
+---
+
+Once again, the discussion after lasted an hour. Srijan Paul shared how
+dithering in images can improve GIF color depths.
 
 
 ## Next Meetup
