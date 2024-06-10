@@ -1,7 +1,7 @@
 ---
 slug: theteachr/fortune
 title: "Meetup 7: Building a Monopoly Deal Clone"
-authors: [theteachr]
+authors: [theteachr, prometheansacrifice]
 ---
 
 
@@ -19,6 +19,8 @@ OCaml's type system with @theteachr.
 	the correct type.
 - Focussed on the principal of _making invalid states impossible to represent_.
 - Created an incomplete game state just to start getting some feedback.
+
+You can find the code on [Github](https://github.com/theteachr/fortune)
 
 ---
 
