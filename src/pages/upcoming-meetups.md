@@ -41,3 +41,23 @@ Online. Join us Discord to get the link.
 Manas Jayanth is an OCaml/Reason programmer maintaining the esy package manager. He has worked on the Tezos blockchain on the economic protocol and the Ligo compiler.
 
 Find him on [x.com/ManasJayanth](https://x.com/ManasJayanth/)
+
+## Writing a Router for the server rendered React components (without Node.js)
+
+We continue our full stack Reason React components. We'll be adding a Router with ReasonReactRouter. You can find the code repository on Github org You can reach out me on X @ManasJayanth] if you have any
+trouble. 
+
+Setting up OCaml and Reason tools isn't easy for everyone. Reach out
+to us on Discord if you're lost setting up the tools. 
+
+### When?
+Sunday, June 30, 2024
+2:00 PM to 4:00 PM IST
+
+### Where?
+Online. Join us Discord to get the link.
+
+### Speaker: Manas Jayanth
+Manas Jayanth is an OCaml/Reason programmer maintaining the esy package manager. He has worked on the Tezos blockchain on the economic protocol and the Ligo compiler.
+
+Find him on [x.com/ManasJayanth](https://x.com/ManasJayanth/)
