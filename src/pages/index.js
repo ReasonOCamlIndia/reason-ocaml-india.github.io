@@ -27,7 +27,7 @@ export default function Home() {
               <h3> Discord </h3>
               <p></p>
             </section>
-            <a className="rb-btn" href="https://discord.com/invite/RamP7SCKcU">
+            <a className="rb-btn" href="https://discord.com/invite/Ytr36fRC4C">
               Join us 
             </a>
           </section>
