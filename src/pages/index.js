@@ -21,14 +21,14 @@ export default function Home() {
               India's very own Reason/OCaml community
             </p>
             <h2 className="rb-light my-4">is meeting up (virtually) next on</h2>
-            <h3 className="rb-date">June 16, 2024</h3>
+            <h3 className="rb-date">June 23, 2024</h3>
             <h2 className="rb-light my-4">at</h2>
             <section className="rb-address">
-              <h3> Google Meet </h3>
+              <h3> Discord </h3>
               <p></p>
             </section>
             <a className="rb-btn" href="https://discord.com/invite/RamP7SCKcU">
-              Join us on Discord
+              Join us 
             </a>
           </section>
         </section>
