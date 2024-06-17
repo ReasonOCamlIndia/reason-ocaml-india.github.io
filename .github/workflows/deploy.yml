@@ -25,13 +25,13 @@ jobs:
           cache-key: ${{ hashFiles('esy.lock/index.json') }}-20240519-1
 
       - name: Install dependencies
-        run: npm ci
+        run: yarn install --frozen-lockfile
 
       - name: Copy melange runtime libs
         run: cp -R melange-node-modules/* ./node_modules/
 
       - name: Build website
-        run: npm run build
+        run: yarn build
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
