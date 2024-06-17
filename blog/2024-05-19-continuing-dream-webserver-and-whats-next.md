@@ -17,7 +17,7 @@ We were joined by organisers of two other communities, [Anupam](https://function
 ## Next meetup: May 26th, 2pm.
 
 We learn how Melange compiler works with a build system to generate JS artifacts. We see how [webpack-reason-loader](https://github.com/DiningPhilosophersCo/reason-loader) was built and try to integrate it with this website [here](/mdn-game-tutorial)
- You can find the code repository on [Github org](https://github.com/ReasonIndia/reason-bangalore.github.io). You
+ You can find the code repository on [Github org](https://github.com/ReasonIndia/reason-ocaml-india.github.io). You
 can reach out me on X at [@ManasJayanth](https://x.com/ManasJayanth) if you have any trouble. I recommend you set it up and install the dependencies to save time during the call :)
 
 Please reach out to us on Discord if you're lost setting up the tools.

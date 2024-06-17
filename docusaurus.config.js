@@ -8,20 +8,20 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Reason Bangalore",
-  tagline: "Bangalore's Reason/OCaml community",
+  title: "Reason OCaml India",
+  tagline: "India's Reason/OCaml community",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://reason-bangalore.org",
+  url: "https://reason-ocaml.in",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "ReasonIndia", // Usually your GitHub org/user name.
-  projectName: "reason-bangalore.github.io", // Usually your repo name.
+  organizationName: "ReasonOCamlIndia", // Usually your GitHub org/user name.
+  projectName: "reason-ocaml-india.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -56,9 +56,9 @@ const config = {
       // Replace with your project's social card
       image: "img/social-card.jpg",
       navbar: {
-        title: "Reason Bangalore",
+        title: "Reason OCaml India",
         logo: {
-          alt: "Reason Bangalore logo",
+          alt: "Reason OCaml India logo",
           src: "img/logo.jpeg",
         },
         items: [
@@ -70,7 +70,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://github.com/ReasonIndia",
+            href: "https://github.com/ReasonOCamlIndia",
             label: "GitHub",
             position: "right",
           },
@@ -88,7 +88,7 @@ const config = {
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/ReasonBangalore",
+                href: "https://x.com/ReasonBangalore",
               },
             ],
           },
@@ -101,7 +101,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/ReasonIndia",
+                href: "https://github.com/ReasonOCamlIndia",
               },
             ],
           },

@@ -16,7 +16,7 @@ export default function Home() {
       <main className="rb-homepage flex container m-auto px-4">
         <section className="sm:flex-column mt-8">
           <section className="flex-1 pr-2">
-            <h1>Reason Bangalore</h1>
+            <h1>Reason OCaml India</h1>
             <p className="rb-description">
               Bengaluru's very own Reason/OCaml community
             </p>
