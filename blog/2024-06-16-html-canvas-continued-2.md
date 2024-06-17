@@ -21,7 +21,7 @@ let f6 x = f5 (f5 x)
 
 ### Abstractions that turn functions into lego blocks
 
-As we started with the tutorial, we ran into the `option` type. Some of us were immediately reminded of monads. We decided to digress and revisit the topic. Here' what came out of it.
+As we started with the tutorial, we ran into the `option` type. Some of us were immediately reminded of monads. We decided to digress and revisit the topic. Here' what came out of it. (Thank you, Patatruder for the snippet).
 
 ```ocaml
 let ( let* ) = Result.bind
