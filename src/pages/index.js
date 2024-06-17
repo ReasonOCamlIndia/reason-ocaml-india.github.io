@@ -18,7 +18,7 @@ export default function Home() {
           <section className="flex-1 pr-2">
             <h1>Reason OCaml India</h1>
             <p className="rb-description">
-              Bengaluru's very own Reason/OCaml community
+              India's very own Reason/OCaml community
             </p>
             <h2 className="rb-light my-4">is meeting up (virtually) next on</h2>
             <h3 className="rb-date">June 16, 2024</h3>
