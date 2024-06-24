@@ -6,7 +6,7 @@ title: Upcoming Meetups
 
 ## Writing a Router for the server rendered React components (without Node.js)
 
-We continue our full stack Reason React components. We'll be adding a Router with ReasonReactRouter. You can find the code repository on Github org You can reach out me on X @ManasJayanth] if you have any
+We continue our full stack Reason React components. We'll be adding a Router with ReasonReactRouter. You can find the code repository on Github org You can reach out me on X [@ManasJayanth](https://x.com/ManasJayanth) if you have any
 trouble. 
 
 Setting up OCaml and Reason tools isn't easy for everyone. Reach out
