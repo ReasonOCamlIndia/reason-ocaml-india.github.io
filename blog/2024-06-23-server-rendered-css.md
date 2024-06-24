@@ -28,6 +28,7 @@ Join us on Discord if you'd like to learn more about this.
 
 ---
 
+We contributed some documentation too! You can find the pull request [here](https://github.com/davesnx/styled-ppx/pull/480)
 
 ## Next Meetup
 We learn how to use a Router for this very same server
