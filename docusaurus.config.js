@@ -65,6 +65,11 @@ const config = {
           { to: "/upcoming-meetups", label: "Upcoming meetups", position: "left" },
           { to: "/blog", label: "Blog", position: "left" },
           {
+            href: "https://discord.com/invite/Ytr36fRC4C",
+            label: "Discord",
+            position: "right",
+          },
+          {
             href: "https://x.com/ReasonBangalore",
             label: "Twitter",
             position: "right",
