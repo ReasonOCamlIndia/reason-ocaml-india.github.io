@@ -10,7 +10,8 @@ We discussed the gameplay, possible UI for the game, and went over the stack to 
 
 1. I setup Melange for [@theteachr](https://github.com/theteachr)'s repository. You can find the pull request [here](https://github.com/theteachr/fortune/pull/1)
 2. [@theteachr](https://github.com/theteachr) explained the codebase and explained interesting abstractions used.
-
+3. Possiblilty of use of Lenses and how it improves abstractions
+4. Release of new winget package for opam - `OCaml.opam`
 
 
 ## Next Meetup
