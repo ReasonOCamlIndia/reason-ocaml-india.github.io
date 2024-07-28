@@ -4,26 +4,6 @@ title: Upcoming Meetups
 
 # Upcoming Meetups
 
-## Writing a Router for the server rendered React components (without Node.js)
-
-We'll will continue adding a Router with `@opam/routes` and make it work on ghe server too. You can find the code repository on Github org You can reach out me on X [@ManasJayanth](https://x.com/ManasJayanth) if you have any
-trouble. 
-
-Setting up OCaml and Reason tools isn't easy for everyone. Reach out
-to us on Discord if you're lost setting up the tools. 
-
-### When?
-Sunday, July 28, 2024
-2:00 PM to 4:00 PM IST
-
-### Where?
-Online. Join us Discord to get the link.
-
-### Speaker: Manas Jayanth
-Manas Jayanth is an OCaml/Reason programmer maintaining the esy package manager. He has worked on the Tezos blockchain on the economic protocol and the Ligo compiler.
-
-Find him on [x.com/ManasJayanth](https://x.com/ManasJayanth/)
-
 ## Continuted - Joining Nikhil as he writes a card game in OCaml
 
 We'll be continuing Nikhil Bijapur's Monopoly Deal, a card game. We plan to live-code this game was built with Nikhil and learn along the way.
@@ -52,4 +32,21 @@ Online. Join us Discord to get the link.
 
 ### Speaker: A. C. Sreedhar Reddy
 [A. C. Sreedhar Reddy](https://a-c-sreedhar-reddy.github.io/) a software engineer 👨‍💻 currently living and working from Andhra Pradesh, India 🇮🇳 You can find him on [x.com/acsreedharreddy](https://x.com/acsreedharreddy)
+
+## Multi-platform builds for Reason and OCaml
+
+We will look at how to setup CI for apps written in native Reason and OCaml so that they can easily distributed for multiple platforms.
+You can reach out me on X [@ManasJayanth](https://x.com/ManasJayanth) if you have any trouble. 
+
+### When?
+Sunday, August 4, 2024
+2:00 PM to 4:00 PM IST
+
+### Where?
+Online. Join us Discord to get the link.
+
+### Speaker: Manas Jayanth
+Manas Jayanth is an OCaml/Reason programmer maintaining the esy package manager. He has worked on the Tezos blockchain on the economic protocol and the Ligo compiler.
+
+Find him on [x.com/ManasJayanth](https://x.com/ManasJayanth/)
 
