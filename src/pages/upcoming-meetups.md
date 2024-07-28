@@ -39,7 +39,7 @@ We will look at how to setup CI for apps written in native Reason and OCaml so t
 You can reach out me on X [@ManasJayanth](https://x.com/ManasJayanth) if you have any trouble. 
 
 ### When?
-Sunday, August 4, 2024
+Sunday, August 18, 2024
 2:00 PM to 4:00 PM IST
 
 ### Where?
