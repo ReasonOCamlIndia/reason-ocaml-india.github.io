@@ -4,7 +4,7 @@ title: "Meetup 16: Tree sitter for Reason and OCaml"
 authors: [prometheansacrifice]
 ---
 
-[@theteachr](https://github.com/KaranAhlawat) led the session explaining Tree sitter, how to write a grammar, debug tree-sitter-ocaml issies on helix. We even explored extending the Reason tree sitter grammar with a class definition. Here's the WIP snippet.
+[@Korven](https://github.com/KaranAhlawat) led the session explaining Tree sitter, how to write a grammar, debug tree-sitter-ocaml issies on helix. We even explored extending the Reason tree sitter grammar with a class definition. Here's the WIP snippet.
 
 
 ```diff
