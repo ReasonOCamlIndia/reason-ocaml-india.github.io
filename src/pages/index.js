@@ -21,7 +21,7 @@ export default function Home() {
               India's very own Reason/OCaml community
             </p>
             <h2 className="rb-light my-4">is meeting up (virtually) next on</h2>
-            <h3 className="rb-date">August 4, 2024</h3>
+            <h3 className="rb-date">August 25, 2024</h3>
             <h2 className="rb-light my-4">at</h2>
             <section className="rb-address">
               <h3> Discord </h3>
