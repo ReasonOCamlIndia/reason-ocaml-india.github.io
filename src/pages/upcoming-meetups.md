@@ -4,20 +4,6 @@ title: Upcoming Meetups
 
 # Upcoming Meetups
 
-## Continued: HTML Canvas Game tutorial, but with Reason and OCaml
-
-We continue where we left off last weekend - ie follow the HTML Canvas Game tutorial from MDN. You can find the [code repository on Github org](https://github.com/ReasonOCamlIndia/melange-mdn-canvas-game-tutorial-live-coded).
-
-
-### When?
-Date: August, 25th, 2024. (tentative)
-2:00 PM to 4:00 PM IST
-
-### Where?
-Online. Join us Discord to get the link.
-
-### Speaker: A. C. Sreedhar Reddy
-[A. C. Sreedhar Reddy](https://a-c-sreedhar-reddy.github.io/) a software engineer 👨‍💻 currently living and working from Andhra Pradesh, India 🇮🇳 You can find him on [x.com/acsreedharreddy](https://x.com/acsreedharreddy)
 
 ## Multi-platform builds for Reason and OCaml
 
@@ -25,7 +11,7 @@ We will look at how to setup CI for apps written in native Reason and OCaml so t
 You can reach out me on X [@ManasJayanth](https://x.com/ManasJayanth) if you have any trouble. 
 
 ### When?
-Sunday, September 1st, 2024
+Sunday, September 15th, 2024
 2:00 PM to 4:00 PM IST
 
 ### Where?
