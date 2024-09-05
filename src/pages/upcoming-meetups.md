@@ -4,6 +4,17 @@ title: Upcoming Meetups
 
 # Upcoming Meetups
 
+## Continuted - Joining Nikhil as he writes a card game in OCaml
+
+We'll be continuing Nikhil Bijapur's Monopoly Deal, a card game. We plan to live-code this game was built with Nikhil and learn along the way.
+
+### When?
+Date: September, 8th, 2024.
+2:00 PM to 4:00 PM IST
+
+### Where?
+Online. Join us [on Discord](https://discord.com/invite/Ytr36fRC4C) to get the link.
+
 
 ## Multi-platform builds for Reason and OCaml
 
@@ -15,7 +26,7 @@ Sunday, September 15th, 2024
 2:00 PM to 4:00 PM IST
 
 ### Where?
-Online. Join us Discord to get the link.
+Online. Join us on [Discord](https://discord.com/invite/Ytr36fRC4C) to get the link.
 
 ### Speaker: Manas Jayanth
 Manas Jayanth is an OCaml/Reason programmer maintaining the esy package manager. He has worked on the Tezos blockchain on the economic protocol and the Ligo compiler.
