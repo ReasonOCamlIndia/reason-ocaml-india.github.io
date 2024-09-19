@@ -4,20 +4,23 @@ title: Upcoming Meetups
 
 # Upcoming Meetups
 
-## Bootstrapping OCaml projects without OCaml compiler
-We discuss an approach made possible by [esy](https://esy.sh) to build OCaml projects on a system without OCaml compiler or any package manager. It assumes `make`, C compiler and other coreutils only.
+## Parser combinators in OCaml
+
+We'll discuss Graham Hutton's *Parser Combinators* with [injuly](https://x.com/ptrcast) leading the discussion
 
 ### When?
-Date: 15 September, 2024
+Date: 22 September, 2024
 2:00 PM to 4:00 PM IST
 
 ### Where?
 Online. Join us on [Discord](https://discord.com/invite/Ytr36fRC4C) to get the link.
 
-### Speaker: Manas Jayanth
-Manas Jayanth is an OCaml/Reason programmer maintaining the esy package manager. He has worked with the Tezos blockchain and Ligo compiler team.
+### Speaker: Srijan Paul
 
-Find him on [x.com/ManasJayanth](https://x.com/ManasJayanth/)
+A CS and math enthusiast put up in Bangalore, India.
+I'm a programmer by trade, and work at DeepSource – a code health monitoring platform.
+
+You can checkout his [website](https://injuly.in/) and follow him on [x.com](https://x.com/ptrcast/)
 
 ## Continuted - Joining Nikhil as he writes a card game in OCaml
 
