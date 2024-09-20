@@ -6,7 +6,7 @@ title: Upcoming Meetups
 
 ## Parser combinators in OCaml
 
-We'll discuss Graham Hutton's *Parser Combinators* with [injuly](https://x.com/ptrcast) leading the discussion.
+We'll discuss Graham Hutton's *Parser Combinators* with [injuly](https://x.com/ptrCast) leading the discussion.
 
 Agenda:
 1. Short intro to parser combinators and Monads.
