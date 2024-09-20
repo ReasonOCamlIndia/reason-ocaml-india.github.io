@@ -7,7 +7,6 @@ title: Upcoming Meetups
 ## Parser combinators in OCaml
 
 We'll discuss Graham Hutton's *Parser Combinators* with [injuly](https://x.com/ptrcast) leading the discussion.
-The canonical implementation of Monadic parsers is usually in Haskell.
 
 Agenda:
 1. Short intro to parser combinators and Monads.
