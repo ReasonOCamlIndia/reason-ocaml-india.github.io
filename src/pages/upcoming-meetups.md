@@ -6,7 +6,16 @@ title: Upcoming Meetups
 
 ## Parser combinators in OCaml
 
-We'll discuss Graham Hutton's *Parser Combinators* with [injuly](https://x.com/ptrcast) leading the discussion
+We'll discuss Graham Hutton's *Parser Combinators* with [injuly](https://x.com/ptrCast) leading the discussion.
+
+Agenda:
+1. Short intro to parser combinators and Monads.
+2. Re-implement `angstrom` from scratch – a popular parser combinator library.
+3. Go through angstrom's source, and compare differences from our implementation.
+4. Cover some popular Haskell parsing libraries (`parsec`, `megaparsec`, etc.)
+
+The interesting bits will be roughly 40 minutes, and we'll use the rest of the time
+for intro/discussion of combinators, monads, typeclasses, lifting, etc.
 
 ### When?
 Date: 22 September, 2024
