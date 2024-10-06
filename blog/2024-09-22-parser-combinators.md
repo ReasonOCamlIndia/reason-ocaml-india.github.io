@@ -1,6 +1,6 @@
 ---
 slug: parser-combinators
-title: "Parser Combinators in OCaml"
+title: "Meetup 20: Parser Combinators in OCaml"
 authors: [prometheansacrifice ]
 ---
 
