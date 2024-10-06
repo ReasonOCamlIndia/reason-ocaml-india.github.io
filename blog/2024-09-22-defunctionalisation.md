@@ -1,6 +1,6 @@
 ---
 slug: defunctionalisation
-title: "Defunctionalisation"
+title: "Article: Defunctionalisation"
 authors: [prometheansacrifice, injuly]
 ---
 
