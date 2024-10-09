@@ -4,23 +4,22 @@ title: Upcoming Meetups
 
 # Upcoming Meetups
 
-## How does Merlin work?
+## Deploying OCaml apps
 
-We'll discuss the experience report released by the Merlin team to understand the engineering challenges in shaping Merlin and OCaml LSP users' experience.
+We'll discuss the how OCaml apps are dockerised and/or statically linked and tangentially discuss some devops best practices in general.
 
 ### When?
-Date: 6 October, 2024
+Date: 13 October, 2024
 2:00 PM to 4:00 PM IST
 
 ### Where?
 Online. Join us on [Discord](https://discord.com/invite/Ytr36fRC4C) to get the link.
 
-### Speaker: Srijan Paul
+### Speaker: Manas Jayanth
+Manas Jayanth is an OCaml/Reason programmer maintaining the esy package manager. He has worked on the Tezos blockchain on the economic protocol and the Ligo compiler.
 
-A CS and math enthusiast put up in Bangalore, India.
-I'm a programmer by trade, and work at DeepSource – a code health monitoring platform.
+Find him on [x.com/ManasJayanth](https://x.com/ManasJayanth/)
 
-You can checkout his [website](https://injuly.in/) and follow him on [x.com](https://x.com/ptrcast/)
 
 ## Continuted - Joining Nikhil as he writes a card game in OCaml
 
