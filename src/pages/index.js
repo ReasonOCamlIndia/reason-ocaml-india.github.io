@@ -10,8 +10,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`${siteConfig.title}`}
+      description="India's very own Reason/OCaml community"
     >
       <main className="rb-homepage flex container m-auto px-4">
         <section className="sm:flex-column mt-8">
