@@ -1,9 +1,10 @@
-open Bindings;
+open Canvas;
+open Ball;
 
 /* Bindings to external JavaScript APIs */
-let ballRadius = 10;
 /* The main render function */
 let rec render = (canvasRef: reactRef, x, dx, y, dy) => {
+  Js.log(Document.getElementById(Document.document, "d"));
   let canvas = getCurrent(canvasRef);
   let ctx = getContext(canvas, "2d");
   let square = x => x * x;
