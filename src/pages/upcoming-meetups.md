@@ -22,7 +22,7 @@ You can find more about him [here on his website](https://shoebum.netlify.app/)
 We'll be continuing Nikhil Bijapur's Monopoly Deal, a card game. We plan to live-code this game was built with Nikhil and learn along the way.
 
 ### When?
-Date: TBD.
+Date: 27 October, 2024.
 2:00 PM to 4:00 PM IST
 
 ### Where?
