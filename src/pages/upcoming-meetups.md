@@ -4,7 +4,7 @@ title: Upcoming Meetups
 
 # Upcoming Meetups
 
-## Deploying OCaml apps
+## Building OCaml projects with Buck2
 We'll discuss setting up OCaml projects with Buck2. Buck2 is a build system that works with multiple languages like OCaml, Rust, Erlang etc.
 
 ### When?
