@@ -1,15 +1,13 @@
+open Document;
+
 type canvas;
 type context2d;
-type document;
 type reactRef;
 
-external document: document = "document";
-[@mel.send]
-external getElementById: (document, string) => canvas = "getElementById";
-[@mel.send] external getContext: (canvas, string) => context2d = "getContext";
-[@mel.get] external getWidth: canvas => int = "width";
-[@mel.get] external getHeight: canvas => int = "height";
-[@mel.get] external getCurrent: reactRef => canvas = "current";
+[@mel.send] external getContext: (htmlElement, string) => context2d = "getContext";
+[@mel.get] external getWidth: htmlElement => int = "width";
+[@mel.get] external getHeight: htmlElement => int = "height";
+[@mel.get] external getCurrent: reactRef => htmlElement = "current";
 [@mel.send]
 external clearRect: (context2d, float, float, float, float) => unit =
   "clearRect";
