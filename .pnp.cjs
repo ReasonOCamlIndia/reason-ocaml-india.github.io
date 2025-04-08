@@ -3218,7 +3218,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react", "npm:18.3.3"],\
           ["@types/react-dom", null],\
           ["escape-html", "npm:1.0.3"],\
-          ["estree-util-value-to-estree", "npm:3.1.2"],\
+          ["estree-util-value-to-estree", "npm:3.3.3"],\
           ["file-loader", "virtual:6d1bb6bb544b265430ccd91c47c305a4cbfb814e33ba1c87645f6d2eb1b1fe15cd90fd95f52c71a180f3b846ba7f9fe629dfcb0ffc34d8ebf728bd0c75c55547#npm:6.2.0"],\
           ["fs-extra", "npm:11.2.0"],\
           ["image-size", "npm:1.2.1"],\
@@ -3259,7 +3259,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react", null],\
           ["@types/react-dom", null],\
           ["escape-html", "npm:1.0.3"],\
-          ["estree-util-value-to-estree", "npm:3.1.2"],\
+          ["estree-util-value-to-estree", "npm:3.3.3"],\
           ["file-loader", "virtual:6d1bb6bb544b265430ccd91c47c305a4cbfb814e33ba1c87645f6d2eb1b1fe15cd90fd95f52c71a180f3b846ba7f9fe629dfcb0ffc34d8ebf728bd0c75c55547#npm:6.2.0"],\
           ["fs-extra", "npm:11.2.0"],\
           ["image-size", "npm:1.2.1"],\
@@ -7856,10 +7856,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["estree-util-value-to-estree", [\
-      ["npm:3.1.2", {\
-        "packageLocation": "../../.yarn/berry/cache/estree-util-value-to-estree-npm-3.1.2-ca10a54ec5-10c0.zip/node_modules/estree-util-value-to-estree/",\
+      ["npm:3.3.3", {\
+        "packageLocation": "../../.yarn/berry/cache/estree-util-value-to-estree-npm-3.3.3-7433c3820f-10c0.zip/node_modules/estree-util-value-to-estree/",\
         "packageDependencies": [\
-          ["estree-util-value-to-estree", "npm:3.1.2"],\
+          ["estree-util-value-to-estree", "npm:3.3.3"],\
           ["@types/estree", "npm:1.0.5"]\
         ],\
         "linkType": "HARD"\
