@@ -3045,7 +3045,7 @@ const RAW_RUNTIME_STATE =
           ["html-tags", "npm:3.3.1"],\
           ["html-webpack-plugin", "virtual:f4bdda2195346cdbe9dbc5a9d3a6cac3497e8e950cd0e5651c25a505118d841308c5e7afa10f396dc2ff1ef617235169fa1916305b182fea7ac6524eb2544747#npm:5.6.0"],\
           ["leven", "npm:3.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["mini-css-extract-plugin", "virtual:f4bdda2195346cdbe9dbc5a9d3a6cac3497e8e950cd0e5651c25a505118d841308c5e7afa10f396dc2ff1ef617235169fa1916305b182fea7ac6524eb2544747#npm:2.9.0"],\
           ["p-map", "npm:4.0.0"],\
           ["postcss", "npm:8.4.41"],\
@@ -3133,7 +3133,7 @@ const RAW_RUNTIME_STATE =
           ["html-tags", "npm:3.3.1"],\
           ["html-webpack-plugin", "virtual:f4bdda2195346cdbe9dbc5a9d3a6cac3497e8e950cd0e5651c25a505118d841308c5e7afa10f396dc2ff1ef617235169fa1916305b182fea7ac6524eb2544747#npm:5.6.0"],\
           ["leven", "npm:3.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["mini-css-extract-plugin", "virtual:f4bdda2195346cdbe9dbc5a9d3a6cac3497e8e950cd0e5651c25a505118d841308c5e7afa10f396dc2ff1ef617235169fa1916305b182fea7ac6524eb2544747#npm:2.9.0"],\
           ["p-map", "npm:4.0.0"],\
           ["postcss", "npm:8.4.41"],\
@@ -3347,7 +3347,7 @@ const RAW_RUNTIME_STATE =
           ["cheerio", "npm:1.0.0"],\
           ["feed", "npm:4.2.2"],\
           ["fs-extra", "npm:11.2.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:18f68c267a3dcae1bee601098f4a9d3c466e0d973468e39bd5de60e6ffb16e2751c2cbcf10cfe9fc611afd31fcf024a6937b3dd55028079c150c54d94d59e6d8#npm:18.3.1"],\
           ["reading-time", "npm:1.5.0"],\
@@ -3381,7 +3381,7 @@ const RAW_RUNTIME_STATE =
           ["cheerio", "npm:1.0.0"],\
           ["feed", "npm:4.2.2"],\
           ["fs-extra", "npm:11.2.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:18f68c267a3dcae1bee601098f4a9d3c466e0d973468e39bd5de60e6ffb16e2751c2cbcf10cfe9fc611afd31fcf024a6937b3dd55028079c150c54d94d59e6d8#npm:18.3.1"],\
           ["reading-time", "npm:1.5.0"],\
@@ -3426,7 +3426,7 @@ const RAW_RUNTIME_STATE =
           ["combine-promises", "npm:1.2.0"],\
           ["fs-extra", "npm:11.2.0"],\
           ["js-yaml", "npm:4.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:18f68c267a3dcae1bee601098f4a9d3c466e0d973468e39bd5de60e6ffb16e2751c2cbcf10cfe9fc611afd31fcf024a6937b3dd55028079c150c54d94d59e6d8#npm:18.3.1"],\
           ["tslib", "npm:2.6.3"],\
@@ -3459,7 +3459,7 @@ const RAW_RUNTIME_STATE =
           ["combine-promises", "npm:1.2.0"],\
           ["fs-extra", "npm:11.2.0"],\
           ["js-yaml", "npm:4.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:18f68c267a3dcae1bee601098f4a9d3c466e0d973468e39bd5de60e6ffb16e2751c2cbcf10cfe9fc611afd31fcf024a6937b3dd55028079c150c54d94d59e6d8#npm:18.3.1"],\
           ["tslib", "npm:2.6.3"],\
@@ -3782,7 +3782,7 @@ const RAW_RUNTIME_STATE =
           ["clsx", "npm:2.1.1"],\
           ["copy-text-to-clipboard", "npm:3.2.0"],\
           ["infima", "npm:0.2.0-alpha.43"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["nprogress", "npm:0.2.0"],\
           ["postcss", "npm:8.4.41"],\
           ["prism-react-renderer", "virtual:18f68c267a3dcae1bee601098f4a9d3c466e0d973468e39bd5de60e6ffb16e2751c2cbcf10cfe9fc611afd31fcf024a6937b3dd55028079c150c54d94d59e6d8#npm:2.3.1"],\
@@ -3869,7 +3869,7 @@ const RAW_RUNTIME_STATE =
           ["clsx", "npm:2.1.1"],\
           ["eta", "npm:2.2.0"],\
           ["fs-extra", "npm:11.2.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:18f68c267a3dcae1bee601098f4a9d3c466e0d973468e39bd5de60e6ffb16e2751c2cbcf10cfe9fc611afd31fcf024a6937b3dd55028079c150c54d94d59e6d8#npm:18.3.1"],\
           ["tslib", "npm:2.6.3"],\
@@ -3953,7 +3953,7 @@ const RAW_RUNTIME_STATE =
           ["gray-matter", "npm:4.0.3"],\
           ["jiti", "npm:1.21.6"],\
           ["js-yaml", "npm:4.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["micromatch", "npm:4.0.8"],\
           ["prompts", "npm:2.4.2"],\
           ["resolve-pathname", "npm:3.0.0"],\
@@ -3986,7 +3986,7 @@ const RAW_RUNTIME_STATE =
           ["gray-matter", "npm:4.0.3"],\
           ["jiti", "npm:1.21.6"],\
           ["js-yaml", "npm:4.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["micromatch", "npm:4.0.8"],\
           ["prompts", "npm:2.4.2"],\
           ["resolve-pathname", "npm:3.0.0"],\
@@ -4051,7 +4051,7 @@ const RAW_RUNTIME_STATE =
           ["fs-extra", "npm:11.2.0"],\
           ["joi", "npm:17.13.3"],\
           ["js-yaml", "npm:4.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["tslib", "npm:2.6.3"]\
         ],\
         "linkType": "HARD"\
@@ -9011,7 +9011,7 @@ const RAW_RUNTIME_STATE =
           ["@types/rspack__core", null],\
           ["@types/webpack", null],\
           ["html-minifier-terser", "npm:6.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["pretty-error", "npm:4.0.0"],\
           ["tapable", "npm:2.2.1"],\
           ["webpack", "virtual:6d1bb6bb544b265430ccd91c47c305a4cbfb814e33ba1c87645f6d2eb1b1fe15cd90fd95f52c71a180f3b846ba7f9fe629dfcb0ffc34d8ebf728bd0c75c55547#npm:5.94.0"]\
@@ -10038,10 +10038,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["lodash", [\
-      ["npm:4.17.21", {\
-        "packageLocation": "../../.yarn/berry/cache/lodash-npm-4.17.21-6382451519-10c0.zip/node_modules/lodash/",\
+      ["npm:4.17.23", {\
+        "packageLocation": "../../.yarn/berry/cache/lodash-npm-4.17.23-50bdb1c01a-10c0.zip/node_modules/lodash/",\
         "packageDependencies": [\
-          ["lodash", "npm:4.17.21"]\
+          ["lodash", "npm:4.17.23"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -12879,7 +12879,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../.yarn/berry/cache/pretty-error-npm-4.0.0-7cca1fe4ad-10c0.zip/node_modules/pretty-error/",\
         "packageDependencies": [\
           ["pretty-error", "npm:4.0.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["renderkid", "npm:3.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -13835,7 +13835,7 @@ const RAW_RUNTIME_STATE =
           ["css-select", "npm:4.3.0"],\
           ["dom-converter", "npm:0.2.0"],\
           ["htmlparser2", "npm:6.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["strip-ansi", "npm:6.0.1"]\
         ],\
         "linkType": "HARD"\
